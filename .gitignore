@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+Projektmunka/Projektmunka/x64/Debug/vc142.idb
+Projektmunka/x64/Release/opencv_world450.pdb
+Projektmunka/x64/Debug/Projektmunka.ilk
+Projektmunka/x64/Debug/Projektmunka.pdb
+Projektmunka/Projektmunka/x64/Debug/vc142.pdb
+Projektmunka/Projektmunka/shape_predictor_68_face_landmarks.dat
+Projektmunka/.vs/Projektmunka/v16/ipch/AutoPCH/ee163b6db94a4f97/TEXTLOG.ipch
+Projektmunka/.vs/Projektmunka/v16/ipch/AutoPCH/1e24acf29d5fe1a7/MAIN.ipch
+Projektmunka/.vs/
